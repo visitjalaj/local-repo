@@ -1,0 +1,26 @@
+{
+  "name": "localrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visitjalaj/local-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visitjalaj/local-repo/issues"
+  },
+  "homepage": "https://github.com/visitjalaj/local-repo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^3.1.9",
+    "uuid": "^11.1.0"
+  }
+}
